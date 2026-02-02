@@ -1,17 +1,21 @@
 {
-    "name": "reliese/laravel",
-    "description": "Reliese Components for Laravel Framework code generation.",
-    "keywords": ["reliese", "laravel"],
+    "name": "nalogo/laravel",
+    "description": "Fork of Reliese Components for Laravel Framework code generation.",
+    "keywords": ["reliese", "laravel", "nalogo"],
     "homepage": "http://cristianllanos.com",
     "support": {
-        "issues": "https://github.com/reliese/laravel/issues",
-        "source": "https://github.com/reliese/laravel"
+        "issues": "https://github.com/NaLogo/laravel/issues",
+        "source": "https://github.com/NaLogo/laravel"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Cristian Llanos",
             "email": "cristianllanos@outlook.com"
+        },
+        {
+            "name": "Lukas Gottschald",
+            "email": "composer@stelle.cc"
         }
     ],
     "require": {
